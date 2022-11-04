@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeBadDev&layout=compact)]
 
-[![MCplayer00's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MCplayer00)]
+[![MeBadDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MeBadDev)]
 
 ## That's All
 Thx For Reading This Thing
