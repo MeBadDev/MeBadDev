@@ -21,6 +21,6 @@ Feel free to explore my repositories below to see what I've been working on! If 
 
 ## Contact
 
-You can reach out to me on [Twitter](https://twitter.com/YourTwitterHandle) or connect with me on [LinkedIn](https://linkedin.com/in/YourLinkedInProfile). Let's collaborate and make the coding world more fun together! 🚀
+You can reach out to me on [Twitter](https://twitter.com/mebaddev). Let's collaborate! 🚀
 
 Thanks for visiting my GitHub profile, and happy coding! 😄
