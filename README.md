@@ -12,6 +12,15 @@ Welcome to my GitHub profile! I'm a middle school student who's love coding and 
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript       5 hrs 12 mins   ███████████▒░░░░░░░░░░░░░   45.37 %
+HTML             3 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   27.59 %
+JavaScript       2 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+JSON             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+YAML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+```
+
 <!--END_SECTION:waka-->
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MeBadDev&layout=compact&theme=radical)
 
