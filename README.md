@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I'm a middle school student who's love coding and 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        5 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   35.43 %
-HTML              3 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
-JavaScript        2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-Python            1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Dart              1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+TypeScript        5 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   35.07 %
+HTML              3 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
+JavaScript        2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
+Python            1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Dart              1 hr 41 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
 ```
 
 <!--END_SECTION:waka-->
