@@ -14,10 +14,8 @@ Welcome to my GitHub profile! I'm a middle school student who's love coding and 
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             3 hrs 11 mins   ████████████████████████▓   98.81 %
-YAML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Dart    48 mins         ████████████████████████▓   98.80 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
