@@ -11,13 +11,6 @@ Welcome to my GitHub profile! I'm a middle school student who's love coding and 
 
 ## 📊 Coding Stats
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MeBadDev&layout=compact&theme=radical)
 
 ## Projects
