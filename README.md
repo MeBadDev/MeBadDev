@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a middle school student who's love coding and 
 
 ## About Me
 - 🌏 Originally from Taiwan, but currently living in Malaysia.
-- 💻 I've been coding for 2 years.
+- 💻 I've been coding for `3` years.
 - 🔧 I LOVE Typescript, React, Electron, and Godot Game Engine.
 - 💬 I maintain an online community called [GodotTW](https://discord.com/invite/fuTtQMaxZ2) for Godot enthusiasts.
 - 🎮 I'm currently working on an exciting project called VoxLand, an open-source voxel game engine that focuses on ease of use.
