@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a middle school student who's love coding and 
 ## About Me
 - 🌏 Originally from Taiwan, but currently living in Malaysia.
 - 💻 I've been coding for `3` years.
-- 🔧 I LOVE Typescript, React, Electron, and Godot Game Engine.
+- 🔧 I LOVE Typescript, Dart, C, and Godot Game Engine.
 
 
 ## 📊 Coding Stats
