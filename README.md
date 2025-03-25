@@ -1,3 +1,7 @@
+> Talk is cheap. Show me the code.
+> 
+> -- <cite>Linus Torvalds<cite/>
+
 Welcome to my GitHub profile! I'm a middle school student who's love coding and open source projects. 🚀
 
 ## About Me
