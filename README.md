@@ -2,7 +2,7 @@
 > 
 > -- <cite>Linus Torvalds<cite/>
 
-Welcome to my GitHub profile! I'm a middle school student who's love coding and open source projects. 🚀
+Welcome to my GitHub profile! I'm a high school student who's love coding and open source projects. 🚀
 
 ## About Me
 - 🌏 Originally from Taiwan, but currently living in Malaysia.
