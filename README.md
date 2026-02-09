@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a high school student who's love coding and op
 
 ## About Me
 - 🌏 Originally from Taiwan, but currently living in Malaysia.
-- 💻 I've been coding for `4` years.
+- 💻 I've been coding for `6` years.
 - 🔧 I LOVE Typescript, Dart, C, and Godot Game Engine.
 
 
